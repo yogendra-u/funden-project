@@ -7,6 +7,13 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+Steps:
+
+1. Clone the repo using git clone https://github.com/paiameya/react-vite-structure.git
+2. Create a new repo in your personal Github account
+3. Copy your new repo's URL and change the remote using git remote set-url origin
+4. Push the code in your own new repo and then follow the below rules ( Read all the rules before starting )
+
 Rules:
 
 1. No inline styles
